@@ -1,0 +1,59 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     1629 MB
+    Driver:   21.20.16.4627
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ahmed Hassan\Desktop\projects\Escape the متاهة\Building\Escape the متاهة_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ahmed Hassan\Desktop\projects\Escape the متاهة\Building\Escape the متاهة_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ahmed Hassan\Desktop\projects\Escape the متاهة\Building\Escape the متاهة_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ahmed Hassan\Desktop\projects\Escape the متاهة\Building\Escape the متاهة_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ahmed Hassan\Desktop\projects\Escape the متاهة\Building\Escape the متاهة_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ahmed Hassan\Desktop\projects\Escape the متاهة\Building\Escape the متاهة_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ahmed Hassan\Desktop\projects\Escape the متاهة\Building\Escape the متاهة_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Ahmed Hassan\Desktop\projects\Escape the متاهة\Building\Escape the متاهة_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Ahmed Hassan\Desktop\projects\Escape the متاهة\Building\Escape the متاهة_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Ahmed Hassan\Desktop\projects\Escape the متاهة\Building\Escape the متاهة_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Ahmed Hassan\Desktop\projects\Escape the متاهة\Building\Escape the متاهة_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Ahmed Hassan\Desktop\projects\Escape the متاهة\Building\Escape the متاهة_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.792 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 87.455146 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 16a0 -> priority: 1 
+  Thread -> id: 36c8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.037546 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 303.
+Total: 23.739733 ms (FindLiveObjects: 0.033706 ms CreateObjectMapping: 0.017066 ms MarkObjects: 15.014826 ms  DeleteObjects: 8.673706 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.353280 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 723.
+Total: 1.703680 ms (FindLiveObjects: 0.154880 ms CreateObjectMapping: 0.074666 ms MarkObjects: 0.808960 ms  DeleteObjects: 0.662613 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 26.578346 ms
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 310.
+Total: 6.428160 ms (FindLiveObjects: 0.098133 ms CreateObjectMapping: 0.089600 ms MarkObjects: 0.729173 ms  DeleteObjects: 5.508693 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.794453 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 704.
+Total: 0.979626 ms (FindLiveObjects: 0.087040 ms CreateObjectMapping: 0.042240 ms MarkObjects: 0.430506 ms  DeleteObjects: 0.418560 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.810986 ms
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 321.
+Total: 4.238933 ms (FindLiveObjects: 0.055466 ms CreateObjectMapping: 0.045653 ms MarkObjects: 0.470613 ms  DeleteObjects: 3.665493 ms)
+
